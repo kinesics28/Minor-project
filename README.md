@@ -1,2 +1,2 @@
 # Minor-project
-Minor project done in my sophomore year at AITR
+Minor project done in my pre finalyear at AITR
